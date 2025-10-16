@@ -9,7 +9,7 @@ redirect_from:
 ---
 <div style="text-align: justify;" markdown="1">
 # About 
-I am a PhD candidate in Economics at Yale University. My fields of interest are Labor Economics and Urban Economics, with a focus on Economics of Education.
+I am a PhD candidate in Economics at Yale University. My field of interest is Labor Economics, with a focus on Economics of Education.
 <!-- Before Yale, I earned a B.S. in Economics and B.A. in Sociology from Tulane University. -->
 
 
@@ -25,13 +25,13 @@ with Douglas Harris, Lihan Liu and Nathan Barrett
 
 ## Working Papers
 
-### [*The Impact of Open Enrollment on the Capitalization of Neighborhood School Quality in Housing Prices*]
+### *The Impact of Open Enrollment on the Capitalization of Neighborhood School Quality in Housing Prices*
 <!-- (https://rosieli202.github.io/files/.pdf) -->
 <!-- (https://www.dropbox.com/scl/fi/j3sw8yefim6ld42hqeply/JMP_KangyingZhou.pdf?rlkey=l7fm0d762hyu69nqo6m982szt&st=r3yoipyu&dl=0) -->
 
 *Abstract*: Coming soon.
 
-### [*The Impact of Elementary School Teachers on Middle School Quality under School Choice*]
+### *The Impact of Elementary School Teachers on Middle School Quality under School Choice*
 
 *Abstract*: Previous literature has found that teachers meaningfully impact the test scores and academic behaviors of students. I find that teachers can also influence the schooling decisions of students in educational environments with school choice. I analyze three distinct contexts that reflect popular school choice policies using administrative data in North Carolina: (1) charter or magnet schools versus traditional public schools, (2) schools in Charlotte before and after the open enrollment reform, (3) schools in Charlotte impacted by No Child Left Behind (NCLB) that were required to offer alternative school options versus non-NCLB schools in Charlotte. In each, I assess how teachers’ test-score value-added (VA)—a measure of their ability to improve student test scores from the beginning to the end of the school year—affects the quality of middle schools attended by their students. In all three settings, I find evidence of stronger effects of teacher VA on middle school quality in schools with more choice, relative to schools with less choice. Random effect analyses suggest that teachers could explain up to 10% of the variation in student middle school quality in choice-rich environments. I provide suggestive evidence that teacher counseling may play a role. I show that improved test scores explain only a small portion of the observed effects, while higher teacher VA is associated with a broader range of schools selected by students. These findings suggest that as school choice expands, disparities in teacher quality have broader consequences beyond test scores, potentially amplifying educational inequalities through differences in school selection guidance.
 
